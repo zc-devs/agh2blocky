@@ -55,7 +55,6 @@
 *.india.miui.com
 *.inf.miui.com
 *.api.accelerator.intl.miui.com
-*.privacy.api.intl.miui.com
 *.api.aurogon.intl.miui.com
 *.activity.browser.intl.miui.com
 *.api.browser.intl.miui.com
@@ -73,7 +72,6 @@
 *.api.launcher.intl.miui.com
 *.api.mintbrs.intl.miui.com
 *.api.muc.intl.miui.com
-*.api.newsfeed.intl.miui.com
 *.adv.sec.intl.miui.com
 *.authbe.sec.intl.miui.com
 *.data.sec.intl.miui.com

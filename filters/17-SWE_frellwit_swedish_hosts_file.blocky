@@ -41,6 +41,7 @@ adroll.com
 ads.aland.com
 ads.annonsbladet.com
 ads.aralego.com
+ads.bethard.com
 ads.compro.se
 ads.docunordic.net
 ads.exakt24.se
@@ -119,12 +120,14 @@ analytics.nikkasystems.com
 analytics.residencemagazine.se
 analytics.sitewit.com
 analytics.sjf.se
+analytics.sleeknote.com
 analytics.smhi.se
 analytics.svenskdam.se
 analytics.svt.se
 analytics.teknikveckan.se
 analytics.undeco.se
 analytics.vackertvader.se
+analytics-ingress-global.bitmovin.com
 analytics-sdk.yle.fi
 analytics-smhise.smhi.se
 analytics.ci-360.se
@@ -224,6 +227,7 @@ cdn.adt356.com
 cdn.adt357.net
 cdn.adt361.com
 cdn.adt511.net
+cdn.adt512.com
 cdn.adt523.net
 cdn.adt532.com
 cdn.adt545.net
@@ -451,6 +455,7 @@ gtm.ekonomifakta.se
 gtm.findroommate.dk
 gtm.proff.se
 gtm.stampenmedia.se
+gtm-service.flygbra.se
 gwen.insertcoin.se
 hapyak.com
 hb.adpone.com
@@ -507,7 +512,6 @@ jsc.adskeeper.com
 jsc.adskeeper.co.uk
 jsc.mgid.com
 jscdn.yieldbird.com
-jssdk.pulse.schibsted.com
 jssdkcdns.mparticle.com
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -748,8 +752,7 @@ services.vlitag.com
 se-ads-microservice.ads.allermedia.io
 sgtm.inet.se
 sibautomation.com
-sleeknote.com
-sleeknotecustomerscripts.sleeknote.com
+smetrics.avanza.se
 smtvn.112.2o7.net
 snap.licdn.com
 source.advisible.com
@@ -785,7 +788,6 @@ static.zotabox.com
 static.ads-twitter.com
 statistics.heltenkelt.se
 statistik.blogg1.se
-statistik.mxo.se
 statistik.svenskaakademien.se
 stats.agrar.nu
 stats.blogg.se
@@ -797,6 +799,7 @@ stats.g.doubleclick.net
 stats.helsingborg.se
 stats.jibber.social
 stats.kaltura.com
+stats.med.lu.se
 stats.playoncenter.com
 stats.poddtoppen.se
 stats.proff.se
@@ -942,6 +945,7 @@ tracking.falkopingstidning.se
 tracking.falukuriren.se
 tracking.fasab6f.se
 tracking.fastighetsnytt.se
+tracking.folkracepuls.se
 tracking.gd.se
 tracking.hd.se
 tracking.ht.se
@@ -950,6 +954,7 @@ tracking.inboxads.com
 tracking.jp.se
 tracking.kalmarposten.se
 tracking.klt.nu
+tracking.kpwebben.se
 tracking.kristianstadsbladet.se
 tracking.ljusdalsposten.se
 tracking.ljusnan.se
@@ -959,11 +964,14 @@ tracking.market.se
 tracking.meraosterlen.se
 tracking.missaffiliate.com
 tracking.moratidning.se
+tracking.morgonexpressen.se
 tracking.na.se
 tracking.norrteljetidning.se
 tracking.nsk.se
 tracking.nvp.se
 tracking.nyaludvikatidning.se
+tracking.nyhetstjansterna.dagensmedicin.se
+tracking.nyhetstjansterna.di.se
 tracking.nynashamnsposten.se
 tracking.olandsbladet.se
 tracking.omniture.nt.se
@@ -995,7 +1003,6 @@ tracking.viivilla.se
 tracking.visitorsvoice.com
 tracking.vlt.se
 tracking.vn.se
-tracking.vxonews.se
 tracking.ystadsallehanda.se
 tracking.etidning.fagersta-posten.se
 tracking.fagersta-posten.se
@@ -1067,6 +1074,7 @@ www.fakturino.se
 www.filasverigese.com
 www.guesssverige.com.se
 www.kundvisaren.se
+www.lduhtrp.net
 www.mymediaindex.com
 www.nichehuset.dk
 www.npttech.com
@@ -1077,7 +1085,6 @@ www.tamgrt.com
 www.topdisplaynetwork.com
 www.tourn.se
 www.vejaskor.com.se
-www.vejasskor.com
 www.vizzit.se
 www8.smartadserver.com
 www.datadoghq-browser-agent.com

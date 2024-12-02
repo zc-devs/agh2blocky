@@ -59,6 +59,7 @@
 *.glnk.io
 *.go2jump.org
 *.gopjn.com
+*.gotrackier.com
 *.href.li
 *.hubspotemail.net
 *.hubspotlinks.com
@@ -76,6 +77,7 @@
 *.mktoweb.com
 *.mmtro.com
 *.mssg.me
+*.mtpc.se
 *.newsletter2go.com
 *.nonstoppartner.net
 *.ojrq.net
@@ -102,6 +104,7 @@
 *.shareasale-analytics.com
 *.shop-links.co
 *.slickdeals.net
+*.spgo.io
 *.stvkr.com
 *.t.co
 *.tapfiliate.com
@@ -112,6 +115,7 @@
 *.webpower.eu
 *.xg4ken.com
 *.px.a8.net
+*.trk.mg.aadvantageeshopping.com
 *.t.adcell.com
 *.a1.adform.net
 *.track.adform.net
@@ -140,12 +144,15 @@
 *.prism.app-us1.com
 *.click.appcast.io
 *.c.apple.com
+*.autolinkmaker.itunes.apple.com
+*.geo.itunes.apple.com
 *.app.appsflyer.com
-*.engagements.appsflyer.com
 *.customlinks.appsflyer.com
+*.engagements.appsflyer.com
 *.tr.apsis.one
 *.uns.apsis.one
 *.ad.atdmt.com
+*.r.audible.de
 *.clicks.aweber.com
 *.www.awin1.com
 *.api.bam-x.com
@@ -162,6 +169,8 @@
 *.tracking.bol.com
 *.clk.boulanger.com
 *.eulerian.brandalley.fr
+*.referrals.brave.com
+*.referrals.bravesoftware.com
 *.cdn.braze.eu
 *.cts.businesswire.com
 *.click.myctm.canadiantire.ca
@@ -221,6 +230,7 @@
 *.ea.galerieslafayette.com
 *.tracker.gamesdonequick.com
 *.target.georiot.com
+*.linksmail.geosolinc.com
 *.tag.getdrip.com
 *.app.getresponse.com
 *.track.glovoapp.com
@@ -246,6 +256,7 @@
 *.click.justwatch.com
 *.www.kdukvh.com
 *.click.klarna.de
+*.l.klarna.com
 *.admarkt.kleinanzeigen.de
 *.click.chp.kohls.com
 *.click.s.kohls.com
@@ -257,6 +268,7 @@
 *.tr.line.me
 *.r.linksprf.com
 *.click.linksynergy.com
+*.affiliate.logitravel.com
 *.click.e.lowes.com
 *.t.lt02.net
 *.click.mail.macmillan.com
@@ -292,6 +304,7 @@
 *.email.office.com
 *.clk.omgt3.com
 *.mail.onedrive.com
+*.sites.paradox.ai
 *.cdn.pardot.com
 *.go.pardot.com
 *.pi.pardot.com
@@ -331,6 +344,7 @@
 *.click.snapshat.com
 *.dominos.sng.link
 *.rides.sng.link
+*.tracking.socketlabs.com
 *.click.email.sonos.com
 *.trk.specialized.com
 *.post.spmailtechno.com
@@ -356,6 +370,7 @@
 *.analytics.twitter.com
 *.email.uber.com
 *.redirect.viglink.com
+*.cts.vresp.com
 *.cdn.webclicks24.com
 *.api.webengage.com
 *.c.webengage.com

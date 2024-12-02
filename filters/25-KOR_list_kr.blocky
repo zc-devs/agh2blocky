@@ -3,7 +3,6 @@
 *.sv.govkorea24.com
 *.static.bidrich.com
 *.ad.tpmn.io
-*.cdn.nhnace.com
 *.d23poh9wsma6va.cloudfront.net
 *.d1cykymlllue3h.cloudfront.net
 *.ad1.missyusa.com
@@ -54,7 +53,7 @@
 *.displayad.lotteon.com
 *.ad-script.viewus.co.kr
 *.ad-insight.sellermill.com
-*.reqde.afreecatv.com
+*.reqde.sooplive.co.kr
 *.serv.ds.kakao.com
 *.ad.auction.co.kr
 *.dadispapi.auction.co.kr
@@ -79,7 +78,7 @@
 *.naverpa-phinf.pstatic.net
 *.ad2.mimint.co.kr
 *.wwwads.seoul.co.kr
-*.adballoon.afreecatv.com
+*.adballoon.sooplive.co.kr
 *.ad.themedianw.com
 *.ad.3dpop.kr
 *.cdndn.3dpop.kr
@@ -160,7 +159,7 @@
 *.adg.dawin.tv
 *.ads.quanta.la
 *.adm.smartmediarep.com
-*.deapi.afreecatv.com
+*.deapi.sooplive.co.kr
 *.ds.11st.co.kr
 *.ad.mrab.co.kr
 *.ad.mediafarm.co.kr
@@ -205,6 +204,10 @@
 *.ttse.b-cdn.net
 *.i.keezip.com
 *.awd.spochak.com
+*.planad.net
+*.aedi.ai
+*.mobon.net
+*.nhnace.com
 *.splash-ad.classting.com
 *.ad-files.classting.com
 *.middlepoint.co.kr
@@ -258,7 +261,6 @@
 *.googleadservices.com
 *.ad-mapps.com
 *.acrosspf.com
-*.mobon.net
 *.adpnut.com
 *.thetopic.co.kr
 *.msadsense.com
