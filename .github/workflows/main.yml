@@ -1,0 +1,39 @@
+name: AdGuard Home to Blocky
+
+on:
+  schedule:
+    - cron:  '33 3 * * 6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12.7"
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Download AdGuard Home lists
+      run: |
+        python agh2blocky.py --filters-dir=ftmp download
+    - name: Convert AdGuard Home lists to Blocky format
+      run: |
+        python agh2blocky.py --filters-dir=ftmp convert
+    - name: Prepare to push back
+      run: |
+        rm -f filters/*
+        mv ftmp/*.blocky* filters/
+    - name: Push back
+      run: |
+        git config --global user.name 'agh2blocky'
+        git config --global user.email 'agh2blocky@users.noreply.github.com'
+        git add filters
+        git commit -m "Automated update"
+        git push
