@@ -243,7 +243,6 @@
 *.dns.ares-taiwan.com
 *.dns.arkbotech.com
 *.nsec.arnor.org
-*.artclass.lol
 *.artclass.site
 *.dns.artikel10.org
 *.doh.asagiri.moe
@@ -302,7 +301,6 @@
 *.bdns.pro
 *.beapasswpn.com
 *.dns.beardic.cn
-*.bebasid.com
 *.justhost.bedro.cloud
 *.beecomf.xyz
 *.beepassvpn.com
@@ -1044,6 +1042,7 @@
 *.jp1.f7b6h9.tk
 *.dns.f97.xyz
 *.faceless.me
+*.proxy.facil.wtf
 *.pdns.faelix.net
 *.rdns.faelix.net
 *.dns.faked.org
@@ -1163,6 +1162,7 @@
 *.freeproxy.asia
 *.freeproxy.io
 *.freeproxy.me
+*.freeproxy.top
 *.freeproxy.win
 *.freeproxyaccess.com
 *.freeproxyserver.co
@@ -1278,7 +1278,6 @@
 *.dns.api.staging.globuscs.info
 *.dns.api.test.globuscs.info
 *.agh.gloom.nexus
-*.dns.glorydns.com
 *.glype.com
 *.dns.gnb09.id
 *.privacydns.go6lab.si
@@ -2613,7 +2612,6 @@
 *.safetysurf.net
 *.safeunblock.com
 *.vpn.sakhwow.ru
-*.dns.salonia.it
 *.cloud.samutz.com
 *.sandparticles.us
 *.saoudiproxy.info
@@ -2806,6 +2804,13 @@
 *.ams1.startpage.com
 *.ams2.startpage.com
 *.eu-browse.startpage.com
+*.eu-proxy.startpage.com
+*.eu2-browse.startpage.com
+*.proxy.startpage.com
+*.proxy1.startpage.com
+*.proxy2.startpage.com
+*.us-browse.startpage.com
+*.us-proxy.startpage.com
 *.dns.startupstack.tech
 *.starvpn.com
 *.staticnetcontent.com
@@ -3261,6 +3266,7 @@
 *.unknownproxy.com
 *.unlimitedvpnapp.com
 *.unlocator.com
+*.unmoor.com
 *.unrestrict.me
 *.unrestrictedsurf.com
 *.unrestricter.com
@@ -3557,7 +3563,6 @@
 *.xvbelink.com
 *.xvpn.io
 *.v2.xx3210766.live
-*.dns.yague.me
 *.dns.yameenassotally.com
 *.2.dnscrypt-cert.browser.yandex.net
 *.dns.yandex.ru
