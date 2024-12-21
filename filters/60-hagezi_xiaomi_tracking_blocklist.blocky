@@ -117,7 +117,6 @@
 *.gamebox.sec.miui.com
 *.srv.greenguard.sec.miui.com
 *.app.greengurad.sec.miui.com
-*.info.sec.miui.com
 *.info.analysis.kp.sec.miui.com
 *.mazu.sec.miui.com
 *.nav.sec.miui.com
@@ -209,7 +208,6 @@
 *.vip-api.xmpush.global.xiaomi.com
 *.hd.xiaomi.com
 *.heyue.xiaomi.com
-*.huodong.xiaomi.com
 *.huosai.xiaomi.com
 *.activity.hybrid.xiaomi.com
 *.api.hybrid.xiaomi.com
@@ -275,7 +273,6 @@
 *.tj1.staging.nfcpay.xiaomi.com
 *.3rdupgrade.pandora.xiaomi.com
 *.appstore.pandora.xiaomi.com
-*.assistant.pandora.xiaomi.com
 *.bossadmin.pandora.xiaomi.com
 *.box.pandora.xiaomi.com
 *.bss.pandora.xiaomi.com
