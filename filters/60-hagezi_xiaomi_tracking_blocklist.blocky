@@ -312,7 +312,6 @@
 *.mob.tv.pandora.xiaomi.com
 *.tvboss.pandora.xiaomi.com
 *.tvepg.pandora.xiaomi.com
-*.tvstat.pandora.xiaomi.com
 *.upgrade.pandora.xiaomi.com
 *.user.pandora.xiaomi.com
 *.w.pandora.xiaomi.com
@@ -356,10 +355,8 @@
 *.mob.api.xmpush.xiaomi.com
 *.vip.api.xmpush.xiaomi.com
 *.callback.xmpush.xiaomi.com
-*.cn-register.xmpush.xiaomi.com
 *.emq.xmpush.xiaomi.com
 *.mina.xmpush.xiaomi.com
-*.cn.register.xmpush.xiaomi.com
 *.sandbox.xmpush.xiaomi.com
 *.test-api.xmpush.xiaomi.com
 *.vip-api.xmpush.xiaomi.com
