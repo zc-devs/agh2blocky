@@ -42,7 +42,6 @@
 *.resolver.gslb.mi-idc.com
 *.miui.net
 *.app.miui.com
-*.assistant.miui.com
 *.api.bbs.miui.com
 *.browser.miui.com
 *.api.comm.miui.com
@@ -256,7 +255,6 @@
 *.data.mistat.xiaomi.com
 *.ident.mistat.xiaomi.com
 *.storeconfig.mistat.xiaomi.com
-*.music.xiaomi.com
 *.file.cdn.mvideo.xiaomi.com
 *.image.cdn.mvideo.xiaomi.com
 *.staging.appapi.n.xiaomi.com
@@ -360,5 +358,3 @@
 *.sandbox.xmpush.xiaomi.com
 *.test-api.xmpush.xiaomi.com
 *.vip-api.xmpush.xiaomi.com
-*.api.zhuti.xiaomi.com
-*.m.zhuti.xiaomi.com

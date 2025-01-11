@@ -55,6 +55,7 @@
 *.accesscam.org
 *.acmetoy.com
 *.adagio.tw
+*.dyn.addr.tools
 *.afraid.org
 *.aintno.info
 *.airlinemeals.net
@@ -191,7 +192,6 @@
 *.cloudwatch.net
 *.cloudxns.net
 *.cmirg.com
-*.cnstefancelmare.ro
 *.changeip.co.uk
 *.dynamicdns.co.uk
 *.nav.co.id
@@ -952,6 +952,9 @@
 *.my-wan.de
 *.my03.com
 *.myactivedirectory.com
+*.myaddr.dev
+*.myaddr.io
+*.myaddr.tools
 *.mydad.info
 *.myddns.biz
 *.myddns.com
@@ -1314,7 +1317,6 @@
 *.synoserver.com
 *.syntereo.com
 *.sysadminetworks.com
-*.system-ns.com
 *.systes.net
 *.sytes.net
 *.t-online.hu
