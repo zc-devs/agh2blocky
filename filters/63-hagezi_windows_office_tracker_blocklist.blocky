@@ -1,4 +1,11 @@
 *.in.appcenter.ms
+*.js.cdn.applicationinsights.io
+*.js0.cdn.applicationinsights.io
+*.js1.cdn.applicationinsights.io
+*.js2.cdn.applicationinsights.io
+*.js0.tst.applicationinsights.io
+*.js1.tst.applicationinsights.io
+*.js2.tst.applicationinsights.io
 *.applicationinsights.azure.com
 *.dc.applicationinsights.azure.cn
 *.dc.applicationinsights.azure.us
@@ -7,13 +14,13 @@
 *.inference-app-gateway.eastus2.cloudapp.azure.com
 *.inference-app-gateway.koreacentral.cloudapp.azure.com
 *.inference-app-gateway.northeurope.cloudapp.azure.com
+*.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 *.azsc-bingads-westus.westus.cloudapp.azure.com
 *.collector.azure.cn
 *.js.monitor.azure.com
 *.adsdkprod.azureedge.net
 *.adsdkprprod.azureedge.net
 *.adsdkprod.afd.azureedge.net
-*.adsdkprprod.ec.azureedge.net
 *.location-microsoft-com.b-0005.b-msedge.net
 *.a4.bing.com
 *.ads.bing.com
@@ -23,7 +30,6 @@
 *.commerce.bing.com
 *.g.bing.com
 *.raka.bing.com
-*.js.monitor.azure.com.com
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
 *.analytics.live.com
@@ -114,7 +120,6 @@
 *.ssw.live.com
 *.watson.live.com
 *.ads.microsoft.com
-*.help.ads-int.microsoft.com
 *.adsdk.microsoft.com
 *.advertising.microsoft.com
 *.analyticspixel.microsoft.com
@@ -160,6 +165,7 @@
 *.statsfe2.ws.microsoft.com
 *.gateway.bingviz.microsoftapp.net
 *.msads.net
+*.fp.msedge.net
 *.win10-trt.msedge.net
 *.ad.msn.com
 *.adevents.msn.com
@@ -252,6 +258,7 @@
 *.events.data.trafficmanager.net
 *.vortex.data.trafficmanager.net
 *.dsp-ad-cache-tm.trafficmanager.net
+*.adstore.response.gcp.eastus.trafficmanager.net
 *.adstore.response.eastus.trafficmanager.net
 *.telemetry.eastus.trafficmanager.net
 *.eventservice.trafficmanager.net
@@ -304,6 +311,7 @@
 *.analytics-dev-lleap-events.servicebus.windows.net
 *.analytics-dev-simpad-events.servicebus.windows.net
 *.analyticsehnwe.servicebus.windows.net
+*.analyticsiot-prod-simpad-ehn.servicebus.windows.net
 *.btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 *.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 *.citrixanalyticseh.servicebus.windows.net

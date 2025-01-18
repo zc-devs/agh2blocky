@@ -57,6 +57,7 @@
 *.fr135.net
 *.ggopjn.com
 *.glnk.io
+*.go.link
 *.go2jump.org
 *.gopjn.com
 *.gotrackier.com
@@ -73,6 +74,7 @@
 *.lt45.net
 *.mandrillapp.com
 *.media01.eu
+*.mention-me.com
 *.micpn.com
 *.mktoweb.com
 *.mmtro.com
@@ -178,8 +180,6 @@
 *.track.canva.com
 *.tracking.cashkaro.com
 *.cse3.chausport.com
-*.api.cleverpush.com
-*.static.cleverpush.com
 *.target.clickfunnels.com
 *.readdle.cmail20.com
 *.servedby.o2.co.uk
@@ -191,6 +191,7 @@
 *.click.cptrack.de
 *.click.mc.crimsontrace.com
 *.links.email.crunchbase.com
+*.e.customeriomail.com
 *.link.dana.id
 *.clickserve.dartsearch.net
 *.ch0p.darty.com
@@ -314,6 +315,7 @@
 *.clicks.pipaffiliates.com
 *.p.placed.com
 *.ndirect.ppro.de
+*.track.productsup.com
 *.track.productsup.io
 *.click.pstmrk.it
 *.tracking.publicidees.com
@@ -365,6 +367,7 @@
 *.cdn-magiclinks.trackonomics.net
 *.api.traq.li
 *.secure.traqkarr.com
+*.track.connect.travelaudience.com
 *.tracking.truthfinder.com
 *.clicks.trx-hub.com
 *.analytics.twitter.com
@@ -384,8 +387,3 @@
 *.t.yesware.com
 *.tracker.yoncamarket.com
 *.click.zoom.us
-*.e.customeriomail.com
-*.mention-me.com
-*.go.link
-*.track.productsup.com
-*.track.connect.travelaudience.com

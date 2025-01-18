@@ -1,3 +1,4 @@
+*.ad-creative.pstatic.net
 *.centaurs-rest.coupang.com
 *.ad.cashdoc.io
 *.sv.govkorea24.com
@@ -201,6 +202,7 @@
 *.pagead2.googlesyndication.com
 *.safeframe.googlesyndication.com
 *.adservice.google.com
+*.ntkimg.cloud
 *.ttse.b-cdn.net
 *.i.keezip.com
 *.awd.spochak.com
