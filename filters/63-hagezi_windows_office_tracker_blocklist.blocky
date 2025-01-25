@@ -14,13 +14,14 @@
 *.inference-app-gateway.eastus2.cloudapp.azure.com
 *.inference-app-gateway.koreacentral.cloudapp.azure.com
 *.inference-app-gateway.northeurope.cloudapp.azure.com
-*.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 *.azsc-bingads-westus.westus.cloudapp.azure.com
 *.collector.azure.cn
 *.js.monitor.azure.com
+*.adsdkpreprod.azureedge.net
 *.adsdkprod.azureedge.net
-*.adsdkprprod.azureedge.net
+*.adsdkpreprod.afd.azureedge.net
 *.adsdkprod.afd.azureedge.net
+*.cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 *.location-microsoft-com.b-0005.b-msedge.net
 *.a4.bing.com
 *.ads.bing.com
@@ -30,6 +31,7 @@
 *.commerce.bing.com
 *.g.bing.com
 *.raka.bing.com
+*.insights.cloud.microsoft
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
 *.analytics.live.com
@@ -79,7 +81,6 @@
 *.pgtmx1-word-telemetry-vip.officeapps.live.com
 *.pgtsg1-excel-telemetry-vip.officeapps.live.com
 *.pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-*.pgtsg1-word-telemetry-vip.officeapps.live.com
 *.pgtus1-excel-telemetry-vip.officeapps.live.com
 *.pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.pgtus1-word-telemetry-vip.officeapps.live.com
@@ -160,6 +161,7 @@
 *.telemetry.microsoft.com
 *.telemetrycollector.microsoft.com
 *.telemetry.urs.microsoft.com
+*.telemetry.visualstudio.microsoft.com
 *.watson.microsoft.com
 *.statsfe1.ws.microsoft.com
 *.statsfe2.ws.microsoft.com
@@ -167,6 +169,8 @@
 *.msads.net
 *.fp.msedge.net
 *.win10-trt.msedge.net
+*.ac2.msn.com
+*.ac3.msn.com
 *.ad.msn.com
 *.adevents.msn.com
 *.ads.msn.com
@@ -177,6 +181,11 @@
 *.metric.appex-rf.msn.com
 *.c.ar.msn.com
 *.arc.msn.com
+*.arc-emea.msn.com
+*.arc1.msn.com
+*.arc2.msn.com
+*.arc3.msn.com
+*.arc9.msn.com
 *.c.at.msn.com
 *.c.be.msn.com
 *.c.br.msn.com
@@ -240,6 +249,7 @@
 *.c.uk.msn.com
 *.c.za.msn.com
 *.zmetrics.msn.com
+*.diagnostics.office.com
 *.measure.office.com
 *.measure.office.net
 *.hubblecontent.osi.office.net
