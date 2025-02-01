@@ -142,7 +142,6 @@
 *.adsocialmediamarketing.com
 *.advancedvpn.com
 *.aerodrorne.vip
-*.dns.aerro.in
 *.affcdn.net
 *.affsoft.cc
 *.shield.afixer.app
@@ -267,7 +266,6 @@
 *.atozproxy.com
 *.atris.cyou
 *.dohtrial.att.net
-*.dns.auapi.fun
 *.auto-aufladen.de
 *.vanheim.ff.avast.com
 *.vpn-sd.ff.avast.com
@@ -481,6 +479,7 @@
 *.celo.net
 *.anycast.censurfridns.dk
 *.unicast.censurfridns.dk
+*.center-crm.store
 *.dns.cert.ee
 *.cfdjb.org
 *.ibuki.cgnat.net
@@ -488,7 +487,6 @@
 *.changemyip.com
 *.chaos-system.de
 *.dns.charraud.eu
-*.checkpoint.com
 *.dns.chenu.ch
 *.dns.chilimac.net
 *.chillglobal.com
@@ -700,6 +698,7 @@
 *.corecloak.com
 *.doh.cornes.me
 *.corsproxy.io
+*.cosmohacker.space
 *.coverproxy.com
 *.doh.cox.net
 *.dot.cox.net
@@ -1000,7 +999,6 @@
 *.dvprovider.icu
 *.dns.dyn1.de
 *.ueni.dyndns.org
-*.resolver2.dyndnsinternetguide.com
 *.vpn.dzarlax.dev
 *.dzhot.us
 *.dnscache.e-utp.net
@@ -1303,7 +1301,6 @@
 *.getusvpn.com
 *.getvpnx.com
 *.getxvpn.com
-*.getxweb.com
 *.gfwvpn.com
 *.ghadrboland.ir
 *.www-croxy.ghgi.site
@@ -1394,6 +1391,7 @@
 *.hanniel.tech
 *.dns.hannielzhang.com
 *.happy-vpn.com
+*.harbaletsstudy.com
 *.resolver-eu.haringstad.com
 *.adguard.hartley.cloud
 *.query.hdns.io
@@ -1442,6 +1440,7 @@
 *.hideproxy.me
 *.hidessh.com
 *.hidester.com
+*.hidester.one
 *.hidesurf.us
 *.hidetheinternet.com
 *.hidethisip.net
@@ -1613,6 +1612,7 @@
 *.jackyes.ovh
 *.jagoanssh.com
 *.jailbreaked.net
+*.jamesisbald.xyz
 *.tj.jamesxue.xyz
 *.janathanmahes-mysharepoint.com
 *.dns.janl.eu
@@ -1692,6 +1692,7 @@
 *.knvpn.net
 *.ko-18948-tr.xyz
 *.www-proxy.koirdsuzu.com
+*.www-proxy.kokecoco.me
 *.adguard.konikoni428.com
 *.www-proxy.konstl01.xyz
 *.doh.kooman.org
@@ -1912,6 +1913,7 @@
 *.sail.msg.boats
 *.msr177.com
 *.dns.msxnet.ru
+*.mtagprox.com
 *.dns.mtoo.vip
 *.ns.mtsoln.com
 *.muchproxy.com
@@ -2079,7 +2081,6 @@
 *.doh.niyawe.de
 *.njal.la
 *.njtzzrvg0lwj3bsn.info
-*.nntime.com
 *.nocensor.work
 *.pi1.node15.com
 *.nodepay.ai
@@ -2162,7 +2163,6 @@
 *.onion.lt
 *.onion.ly
 *.onion.nu
-*.onion.pet
 *.onion.rip
 *.onion.sh
 *.onion.to
@@ -2514,6 +2514,7 @@
 *.proxyof.com
 *.proxyone.net
 *.proxyoutlet.com
+*.proxypal.net
 *.proxypirates.com
 *.proxypremium.top
 *.proxyprivate.info
@@ -2640,7 +2641,6 @@
 *.reflect4.me
 *.dns.reitmeier.me
 *.relayon.org
-*.remotedesktop.com
 *.remotevpn.net
 *.dns.renardyre.com
 *.dns.repinger.com
@@ -2650,6 +2650,7 @@
 *.dnspub.restena.lu
 *.dns.retakecs.com
 *.rethinkdns.com
+*.www-proxy.retportal.com
 *.revelio.top
 *.revko.info
 *.doh.rezhajul.io
@@ -2663,6 +2664,7 @@
 *.riseup.net
 *.rnblyatclub.online
 *.dns.roedel.cloud
+*.romirely.tech
 *.dns.ronc.ru
 *.roodel.com
 *.roogen.com
@@ -2769,6 +2771,7 @@
 *.adguard.senthil.us
 *.dns.serdcebolit.ru
 *.dns1.serdcebolit.ru
+*.serkanarslan.com
 *.privatnas.servebeer.com
 *.serverhoya.com
 *.serverssh.net
@@ -2782,6 +2785,7 @@
 *.shadeyouvpn.com
 *.shadowsocks.org
 *.shadowsurf.com
+*.shadowtunnels.com
 *.shalenkov.dev
 *.sharejav.com
 *.sharevpn.org
@@ -2838,6 +2842,7 @@
 *.skynetwork.info
 *.skyssh.co
 *.skyvpn.net
+*.sleezy.nl
 *.slickvpn.com
 *.dns.slinkyman.net
 *.smartdnsproxy.com
@@ -2847,7 +2852,6 @@
 *.snapxs.com
 *.snowproxy.com
 *.guard.sntrk.ru
-*.dove.soapagent.com
 *.dove.soapclient.com
 *.socialnetworkinfo.us
 *.socks-proxy.net
@@ -2910,6 +2914,7 @@
 *.eu2-browse.startpage.com
 *.proxy3.startpage.com
 *.s4-us2.startpage.com
+*.us1-browse.startpage.com
 *.us2-browse.startpage.com
 *.dns.startupstack.tech
 *.starvpn.com
@@ -2933,7 +2938,6 @@
 *.stupidproxy.com
 *.dns.stvsk.ml
 *.doh.suche.org
-*.local.sufly.top
 *.dns.suhaila.dev
 *.suissl.com
 *.resolver.sunet.se
@@ -2991,7 +2995,6 @@
 *.switch.ch
 *.switchvpn.com
 *.switchvpn.net
-*.swordvpn.com
 *.dns.sy.st
 *.dns.syaifullah.com
 *.ibksturm.synology.me
@@ -3080,7 +3083,6 @@
 *.theunblock.net
 *.thevpncompany.net
 *.thexite.net
-*.doh.thio.me
 *.threeproxy.net
 *.thundervpnwin.com
 *.tiafun.com
@@ -3110,13 +3112,13 @@
 *.toolara.net
 *.dot.tooli.ca
 *.proxy.toolur.com
+*.top-proxy.site
 *.top10vpn.com
 *.toppal.tech
 *.topsecure.info
 *.topsun.pw
 *.toptip.cc
 *.topvpn.cc
-*.topvpn.cn
 *.topvpnguides.com
 *.tor-gateways.de
 *.tor2web.fi
@@ -3310,7 +3312,6 @@
 *.unblockedwarez.com
 *.unblocker.net
 *.unblocker.us
-*.unblockfacebook.eu
 *.unblockfav.com
 *.unblockfreeproxy.com
 *.unblockit.app
@@ -3438,7 +3439,6 @@
 *.videomy.online
 *.videonew.online
 *.videoproxy.site
-*.videounblocked.com
 *.videounblocker.net
 *.vidproxy.com
 *.viewyoutube.net
