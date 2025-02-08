@@ -53,6 +53,8 @@
 *.rocket.chat
 *.download.falco.org
 *.ad-block.dns.adguard.com
+*.tracking.doordash.com
+*.app.powerbi.com
 *.log.mmstat.com
 *.ad-gone.com
 *.tracking.epicgames.com

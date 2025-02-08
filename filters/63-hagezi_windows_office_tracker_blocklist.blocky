@@ -19,7 +19,6 @@
 *.js.monitor.azure.com
 *.adsdkpreprod.azureedge.net
 *.adsdkprod.azureedge.net
-*.adsdkpreprod.afd.azureedge.net
 *.adsdkprod.afd.azureedge.net
 *.cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 *.location-microsoft-com.b-0005.b-msedge.net
@@ -122,6 +121,7 @@
 *.watson.live.com
 *.ads.microsoft.com
 *.adsdk.microsoft.com
+*.adsstatic.microsoft.com
 *.advertising.microsoft.com
 *.analyticspixel.microsoft.com
 *.applicationinsights.microsoft.com
@@ -262,7 +262,6 @@
 *.bf-analytics-tracker-tm.trafficmanager.net
 *.bf-tracker-release-tm.trafficmanager.net
 *.bingads.trafficmanager.net
-*.cas-telemetry.trafficmanager.net
 *.collector-main.trafficmanager.net
 *.tracker.flightview.com.trafficmanager.net
 *.events.data.trafficmanager.net
