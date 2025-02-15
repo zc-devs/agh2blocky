@@ -443,7 +443,6 @@
 *.bypassfw.com
 *.bypassip.com
 *.bypasskey.com
-*.bypasstunnel.com
 *.api.bytelixir.com
 *.bytzvpn.com
 *.c-dns.com
@@ -1531,6 +1530,7 @@
 *.dns.imchristian.de
 *.dns.immanuelschaffer.de
 *.doh.immerda.ch
+*.http-dns.imoim.net
 *.imperio.top
 *.dns1.in-berlin.de
 *.dns2.in-berlin.de
@@ -1656,6 +1656,7 @@
 *.keenow.com
 *.keepanonymous.com
 *.dns.keke125.com
+*.doh.kekew.info
 *.doh.kel.pe
 *.kepard.com
 *.dns.kerekes.xyz
@@ -2374,7 +2375,6 @@
 *.romania.privacy-dns.pw
 *.privacyprotector.eu
 *.privado.io
-*.dns.privado.ovh
 *.orpi.privado.ovh
 *.privadovpn.com
 *.privateinternetaccess.com
@@ -2589,6 +2589,7 @@
 *.www-web.r-2.top
 *.resolver.r0cket.net
 *.r1bnc.com
+*.resolve2.r9x.cc
 *.ra4wvpn.com
 *.dns.rabbitdns.org
 *.family.rabbitdns.org
@@ -2882,6 +2883,7 @@
 *.sslsecureproxy.com
 *.sslunblocker.com
 *.doh.ntu.ssooss.win
+*.ag.ssrahul96.xyz
 *.dns.sstomp.nl
 *.stable-vpn.com
 *.stackfront.xyz
@@ -3420,7 +3422,6 @@
 *.videoproxy.site
 *.videounblocker.net
 *.vidproxy.com
-*.viewyoutube.net
 *.vikingvpn.com
 *.dns.vinnyp.xyz
 *.dns.vinokurov.tk
